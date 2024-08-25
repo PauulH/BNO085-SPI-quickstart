@@ -1,5 +1,6 @@
 # BNO085 SPI quick start guide
-This is my attempt at writing a simple example of BNO085 SPI comms. 
+This is my attempt at writing a simple example of BNO085 SPI comms.<br /> 
+I would recommend reading the documentation first.
 
 The code steps you through the following process -<br />
 1 - Reading the unsolicited start up messages<br />
